@@ -65,3 +65,17 @@ The custom AdaBoost implementation is compared with scikit-learn’s AdaBoost im
 1. Clone the repository:
    ```bash
    git clone https://github.com/satwika787/ensemble-regressor-classifier.git
+
+## Dependencies
+The project requires the following libraries:
+
+Python 3.x
+scikit-learn
+numpy
+pandas
+matplotlib
+pip install -r requirements.txt
+
+## References
+Boston Housing Dataset: [Original Source]
+Breast Cancer Dataset: [Scikit-learn Datasets]
